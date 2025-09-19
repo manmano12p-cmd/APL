@@ -1,0 +1,4 @@
+export const DEFAULT_WORK_MINS = 25;
+export const DEFAULT_BREAK_MINS = 5;
+export const DEFAULT_LONG_BREAK_MINS = 15;
+export const POMODORO_SESSIONS_PER_LONG_BREAK = 4;
